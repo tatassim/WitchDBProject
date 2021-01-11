@@ -1,0 +1,14 @@
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csprojAssemblyReference.cache
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.MainForm.resources
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.UserControls.WitchUserControl.resources
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Forms.AddEditWitchDialog.resources
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.UserControls.CovenUserControl.resources
+C:\Users\Public\Все\Универ\3 курс\C#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.UserControls.HabitatUserControl.resources
